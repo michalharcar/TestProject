@@ -13,4 +13,8 @@ public class bla {
             super.init(outstream, buffersize, params);
         }
     };
+
+    public static void main(String[] args) {
+
+    }
 }
